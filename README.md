@@ -1,11 +1,11 @@
-# Hi, I am Karen
+# Hi there 👋, I am Karen Sanchez
 
 ![Banner](https://your-image-url.com/banner.png)
 
 ## About me
 A Postdoctoral researcher at KAUST in Saudi Arabia. I am passionate about developing AI solutions that positively impact health.
 
-- 🔭 I am currently working on: [Triplet Detection in Laparoscopy Videos](https://github.com/ksanchez84/triplets)
+- 🔭 I am currently working on [Triplet Detection in Laparoscopy Videos](https://github.com/ksanchez84/triplets)
 - 🌱 Learning: Large Language Models, Privacy in AI, Video Generation, and Video Understanding.
 - 🤝 Looking to collaborate on Medical image and video analysis projects.
 - 🔭 I’m part of the [IVUL lab at KAUST](https://cemse.kaust.edu.sa/ivul)
