@@ -1,6 +1,7 @@
 # Hi there 👋, I am Karen Sanchez
 
-![Banner](https://your-image-url.com/banner.png)
+![Banner](https://github.com/ksanchez84/ksanchez84/blob/main/images/banner.png)
+
 
 ## About me
 A Postdoctoral researcher at KAUST in Saudi Arabia. I am passionate about developing AI solutions that positively impact health.
