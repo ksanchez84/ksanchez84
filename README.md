@@ -9,7 +9,7 @@ A Postdoctoral researcher at KAUST in Saudi Arabia. I am passionate about develo
 - 🔭 I am currently working on [Triplet Detection in Laparoscopy Videos](https://github.com/ksanchez84/triplets)
 - 🌱 Learning: Large Language Models, Privacy in AI, Video Generation, and Video Understanding.
 - 🤝 Looking to collaborate on Medical image and video analysis projects.
-- 🔭 I’m part of the [IVUL lab at KAUST](https://cemse.kaust.edu.sa/ivul)
+- 🔭 I’m part of the [IVUL lab](https://cemse.kaust.edu.sa/ivul)
 - 📫 How to reach me: [karen.sanchez@kaust.edu.sa](karen.sanchez@kaust.edu.sa)
 - ⚡ Background: PhD in Engineering, MSc in Electronic Engineering, and Bachelor in Energy Engineering from Colombia.
 - 📝 Find me in [Google Scholar](https://scholar.google.com/citations?user=k7sOz3kAAAAJ&hl=en&oi=ao)
