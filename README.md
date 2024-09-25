@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Karen Sanchez
 
-![Banner](https://github.com/ksanchez84/ksanchez84/blob/main/images/banner.png)
-
 I am a Postdoctoral researcher at King Abdullah University of Science and Technology KAUST in Saudi Arabia. I am passionate about developing AI solutions that positively impact health.
 
 - ⚡ Background: PhD in Engineering, MSc in Electronic Engineering, and Bachelor in Energy Engineering from Colombia.
