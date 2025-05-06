@@ -6,7 +6,6 @@ I am a Postdoctoral researcher at King Abdullah University of Science and Techno
 - 🇸🇦 I’m part of the [IVUL lab](https://cemse.kaust.edu.sa/ivul) at KAUST in Saudi Arabia.
 - 🔭 I am currently working on Surgical Video Understanding.
 - 🌱 Also in... VLMs, Privacy in AI, and Generative AI.
-- 📫 Contact: [karen.sanchez@kaust.edu.sa](karen.sanchez@kaust.edu.sa)
 - 📝 Find me in [Google Scholar](https://scholar.google.com/citations?user=k7sOz3kAAAAJ&hl=en&oi=ao)
 
 ## Connect with me
