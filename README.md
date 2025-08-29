@@ -4,8 +4,8 @@ I am a Postdoctoral researcher at King Abdullah University of Science and Techno
 
 - 🇨🇴 Background: PhD in Engineering, MSc in Electronic Engineering, and Bachelor in Energy Engineering from Colombia.
 - 🇸🇦 I’m part of the [IVUL lab](https://cemse.kaust.edu.sa/ivul) at KAUST in Saudi Arabia.
-- 🔭 I am currently working on Surgical Video Understanding.
-- 🌱 Also in... VLMs, Privacy in AI, and Generative AI.
+- 🔭 I am currently working on Video Understanding, VLMs, and 3D Medical Imaging.
+- 🌱 Also in... Privacy in AI and Generative AI.
 - 📝 Find me in [Google Scholar](https://scholar.google.com/citations?user=k7sOz3kAAAAJ&hl=en&oi=ao)
 
 ## Connect with me
